@@ -10,6 +10,13 @@ El curso cuenta con un Drive de respaldo en el cual se encuentran los ejercicios
 
 ## Herramientas 
 
-+  [Python Tutor - Online Console Visualizator](www.pythontutor.com/visualize.html#mode=edit)
-+  [Programiz - Online Console](https://www.programiz.com/python-programming/online-compiler/)
-+  [Replit- Online Console](https://replit.com/languages/python3)
++ [Python - Editor propio de la página oficial de Python](https://www.python.org/)
++ [Python Tutor - Visualizador paso a paso](www.pythontutor.com/visualize.html#mode=edit)
++ [Programiz - Online Console](https://www.programiz.com/python-programming/online-compiler/)
++ [Replit- Online Console](https://replit.com/languages/python3)
+
+
+## Recursos digitales
+
++ [IDLE - Más información sobre la herramienta IDLE de Python](https://www.mclibre.org/consultar/python/otros/python-idle.html)
++ [Python Org](https://www.python.org/)
