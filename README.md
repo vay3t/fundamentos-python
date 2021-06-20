@@ -7,3 +7,9 @@ Este curso es una actividad de capacitación que tiene como objetivo desarrollar
 El curso cuenta con un Drive de respaldo en el cual se encuentran los ejercicios vistos durante las clases.
 
 [Drive de respaldo](https://drive.google.com/drive/folders/1q7MNvQJbujwMpThgvBUARY6NNFdaDkLI)
+
+## Herramientas 
+
++  [Python Tutor - Online Console Visualizator](www.pythontutor.com/visualize.html#mode=edit)
++  [Programiz - Online Console](https://www.programiz.com/python-programming/online-compiler/)
++  [Replit- Online Console](https://replit.com/languages/python3)
